@@ -1,6 +1,6 @@
 """
 Created by: Illia
-Created on: MAR 2026
+Created on: March 2026
 This module shows "Hello, Illia"
 """
 
